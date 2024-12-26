@@ -1,2 +1,2 @@
 # Delta-Demo
-exploring new ideas
+exploring new ideas.
